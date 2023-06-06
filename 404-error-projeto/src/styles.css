@@ -1,0 +1,61 @@
+h3{
+    font-family: 'Inconsolata';
+    font-size: 24px;
+    color: #333333;
+    margin: 40px;
+}
+
+.mensagem-principal{
+    align-items: center;
+    display: grid;
+    grid-template-columns: 60% 25% 25%;
+    margin: 200px 70px;
+}
+
+.imagem-espantalho{
+    width: 500px;
+    margin: 0px 10px;
+
+}
+
+h1{
+    font-family: 'Space mono';
+    padding: 5px;
+}
+
+.descricao-titulo{
+    font-weight: 700;
+    font-size: 45px;
+    color: #333333;
+    margin-bottom: 1px;
+}
+
+.descricao-paragrafo{
+    font-family: 'Space mono';
+    font-size: 20px;
+    color:  #4F4F4F;
+    display:grid;
+    margin-bottom: 50px;
+
+}
+
+.botao{
+    font-family: 'Space mono';
+    text-align: center;
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px 15px;
+    text-decoration: none;
+}
+
+footer{
+    font-family: 'Montserrat';
+    color: #4F4F4F;
+    text-align: center;
+
+}
+
+span{
+    text-decoration:underline;
+    font-weight: bolder;
+}
